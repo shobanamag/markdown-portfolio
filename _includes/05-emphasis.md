@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Pathways
+
+Below is the _list_ of interested **Pathways**
+
+- High Performance Computing
+- Leadership skills
+- Emotional and Mental health
